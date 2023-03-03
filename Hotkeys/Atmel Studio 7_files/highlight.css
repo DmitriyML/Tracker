@@ -1,0 +1,57 @@
+pre {
+ 	white-space: pre-wrap;       /* css-3 */
+ 	white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
+ 	white-space: -pre-wrap;      /* Opera 4-6 */
+ 	white-space: -o-pre-wrap;    /* Opera 7 */
+ 	word-wrap: break-word;       /* Internet Explorer 5.5+ */
+}
+	
+	
+.xslthl-keyword {
+	color: #0000FF;
+}
+	
+.xslthl-string {
+	color: #800000;
+}		
+
+.xslthl-multiline-comment {
+	color: #008000;
+}
+
+.xslthl-comment {
+	color: #008000;
+}
+	
+.xslthl-doccomment {
+	color: #008000;	
+}	
+
+.xslthl-doctype {
+	color: #008000;	
+}	
+
+.xslthl-directive {
+	color: maroon;	
+}	
+
+.xslthl-annotation {
+	color: gray;	
+}
+
+/* default XML styles */
+.xslthl-tag {
+	color: teal;	
+}
+
+.xslthl-attribute {
+	color: #7f0055;	
+}
+
+.xslthl-value {
+	color: blue;	
+}
+
+.xslthl-xslt {
+	color: red;	
+}

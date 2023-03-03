@@ -1,0 +1,7 @@
+
+	моя учётная запись на GitLab (gitlab.tt.net)
+First name ....... Dmitriy
+Last name ........ Larionov
+Username ......... dmx.larionov
+Email ............ d.larionov@technocode.org
+Password ......... d.larionov2pswrd 			

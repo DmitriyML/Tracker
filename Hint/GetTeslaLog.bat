@@ -1,0 +1,1 @@
+scp andrey@192.168.23.52:/var/log/technocode/*.* D:/Active/Report/Log
